@@ -36,7 +36,6 @@ header {
     justify-content: center;
     align-items: center;
     list-style: none;
-    padding: 55px;
     margin-left: 200px;
 }
 
@@ -109,7 +108,7 @@ header {
 }
 
 .container-slider {
-    margin: 110px auto;
+    margin: 10px;
     width: 800px;
     height: 600px;
     border-radius: 20px;
@@ -690,7 +689,6 @@ ul {
 /* Mensagem de erro */
 #mensagemErro {
     font-size: 16px;
-    margin-top: 10px;
     text-align: center;
     color: red;
     font-weight: bold;
